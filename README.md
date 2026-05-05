@@ -42,7 +42,7 @@ Barra flotante y arrastrable para cualquier web. Zoom, contraste, inversión de 
 **Stack:** HTML, CSS, JavaScript  
 **Demo:** [vito-pulls.github.io/Personal-CV](https://vito-pulls.github.io/Personal-CV/)
 
-### Portfolio Personal
+### [Portfolio Personal](https://github.com/Vito-Pulls/Portfolio)
 Sitio construido con PHP 8.2, MySQL, JavaScript vanilla y Docker. Blog con panel de administración, subida de archivos, BD en la nube y despliegue en contenedor.
 
 **Stack:** PHP, MySQL, JavaScript, Docker, Clever Cloud
